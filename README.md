@@ -4,4 +4,4 @@ This Python based project is to produce a covid patient discharge system as per 
 
 It has a source directory (src) which further has three main modules: application, model, service.
 
-![test](https://github.com/neharana4486/covid_public/tree/Slide1.jpg?raw=true)
+![High level Use Cases - Discharge](https://github.com/neharana4486/covid_public/blob/main/Slide4.JPG?raw=true)
